@@ -1,0 +1,9 @@
+F:\2-oop\Day6-Visual C#\Note\bin\Debug\Note.exe.config
+F:\2-oop\Day6-Visual C#\Note\bin\Debug\Note.exe
+F:\2-oop\Day6-Visual C#\Note\bin\Debug\Note.pdb
+F:\2-oop\Day6-Visual C#\Note\obj\Debug\Note.csprojAssemblyReference.cache
+F:\2-oop\Day6-Visual C#\Note\obj\Debug\Note.Properties.Resources.resources
+F:\2-oop\Day6-Visual C#\Note\obj\Debug\Note.csproj.GenerateResource.cache
+F:\2-oop\Day6-Visual C#\Note\obj\Debug\Note.exe
+F:\2-oop\Day6-Visual C#\Note\obj\Debug\Note.pdb
+F:\2-oop\Day6-Visual C#\Note\obj\Debug\Note.Note.resources
